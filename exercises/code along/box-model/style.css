@@ -1,0 +1,17 @@
+p {
+
+/*content - width and height*/
+width: 50%;
+/*border*/
+border: 2px solid blue;
+/*padding*/
+padding-left: 40px;
+/*margin*/
+/*margin: 50px;*/
+/*margin-top: 40px;*/
+/*margin: 20px 40px 20px 40px;*/
+/*center element by using auto*/
+/*margin: 0 auto 0 auto; */
+/*margin: 0 auto;*/
+margin: 50px auto;
+}
